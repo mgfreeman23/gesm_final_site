@@ -1,0 +1,131 @@
+Book_Title,Author_Name,Rating_score,Rating_votes,Year_published,Sf_class
+The Left Hand of Darkness,Ursula K. Le Guin,4.08,125384,1969,aliens
+Lilith's Brood,Octavia E. Butler,4.35,15107,1987,aliens
+Remnant Population,Elizabeth Moon,4.06,4137,1996,aliens
+Bloodchild and Other Stories,Octavia E. Butler,4.34,14002,1995,aliens
+Grass,Sheri S. Tepper,4.05,11216,1989,aliens
+The Handmaid's Tale,Margaret Atwood,4.12,1521719,1985,alternate_history
+The Power,Naomi Alderman,3.8,167606,2016,alternate_history
+Rodham,Curtis Sittenfeld,3.84,24206,2020,alternate_history
+The Future of Another Timeline,Annalee Newitz,3.75,4569,2019,alternate_history
+The Once and Future Witches,Alix E. Harrow,4.14,11539,2020,alternate_history
+Swastika Night,Katharine Burdekin,3.62,1883,1937,alternate_history
+The Testaments,Margaret Atwood,4.2,231717,2019,alternate_history
+The Female Man,Joanna Russ,3.51,6156,1975,alternate_history
+Outlawed,Anna North,3.68,6948,2021,alternate_history
+Red Clocks,Leni Zumas,3.68,18898,2018,alternate_history
+The Lady's Guide to Petticoats and Piracy,Mackenzi Lee,4.09,25718,2018,alternate_history
+Vox,Christina Dalcher,3.55,55972,2018,alternate_history
+The Power,Naomi Alderman,3.8,167611,2016,alternate_universe
+The Handmaid's Tale,Margaret Atwood,4.12,1521719,1985,alternate_universe
+The Testaments,Margaret Atwood,4.2,231722,2019,alternate_universe
+Red Clocks,Leni Zumas,3.68,18899,2018,alternate_universe
+The Future of Another Timeline,Annalee Newitz,3.75,4569,2019,alternate_universe
+The Female Man,Joanna Russ,3.51,6156,1975,alternate_universe
+The Grace Year,Kim Liggett,4.15,31503,2019,alternate_universe
+The Handmaid's Tale,Margaret Atwood,4.12,1521228,1985,dystopia
+The Testaments,Margaret Atwood,4.2,231581,2019,dystopia
+The Power,Naomi Alderman,3.8,167544,2016,dystopia
+Vox,Christina Dalcher,3.55,55953,2018,dystopia
+When She Woke,Hillary Jordan,3.67,26240,2011,dystopia
+The Grace Year,Kim Liggett,4.15,31439,2019,dystopia
+Only Ever Yours,Louise O'Neill,3.77,13404,2014,dystopia
+Red Clocks,Leni Zumas,3.68,18894,2018,dystopia
+Future Home of the Living God,Louise Erdrich,3.55,19421,2017,dystopia
+The Book of the Unnamed Midwife,Meg Elison,4.14,14051,2014,dystopia
+Bitch Planet Vol. 1: Extraordinary Machine,Kelly Sue DeConnick,4.04,22428,2015,dystopia
+The Water Cure,Sophie Mackintosh,3.26,18695,2018,dystopia
+The Gate to Women's Country,Sheri S. Tepper,4.06,12390,1987,dystopia
+The Handmaid's Tale: The Graphic Novel,Renée Nault,4.23,11994,2019,dystopia
+Gather the Daughters,Jennie Melamed,3.62,7733,2017,dystopia
+Girls with Sharp Sticks,Suzanne Young,3.94,6937,2019,dystopia
+Daughters of the North,Sarah Hall,3.4,3653,2007,dystopia
+The Core of the Sun,Johanna Sinisalo,3.88,2876,2013,dystopia
+5 to 1,Holly Bodger,3.65,2454,2015,dystopia
+The Farm,Joanne Ramos,3.5,27111,2019,dystopia
+Native Tongue,Suzette Haden Elgin,4.01,3159,1984,dystopia
+Woman on the Edge of Time,Marge Piercy,3.95,14210,1976,dystopia
+The Stepford Wives,Ira Levin,3.78,29846,1972,dystopia
+The Book of Joan,Lidia Yuknavitch,3.04,5085,2017,dystopia
+The Natural Way of Things,Charlotte Wood,3.53,11148,2015,dystopia
+Beauty Queens,Libba Bray,3.62,52269,2011,dystopia
+Blue Ticket,Sophie Mackintosh,3.26,4063,2020,dystopia
+An Excess Male,Maggie Shen King,3.68,2269,2017,dystopia
+Bitch Planet Vol. 2: President Bitch,Kelly Sue DeConnick,4.28,5710,2017,dystopia
+Swastika Night,Katharine Burdekin,3.62,1883,1937,dystopia
+Afterland,Lauren Beukes,3.31,2276,2020,dystopia
+Herland,Charlotte Perkins Gilman,3.49,15302,1915,dystopia
+The Book of Etta,Meg Elison,3.9,5309,2017,dystopia
+Glory O'Brien's History of the Future,A.S. King,3.8,9148,2014,dystopia
+The Left Hand of Darkness,Ursula K. Le Guin,4.08,125348,1969,dystopia
+Lilith's Brood,Octavia E. Butler,4.35,15106,1987,dystopia
+Grace and Fury,Tracy Banghart,3.83,10443,2018,dystopia
+The Testament of Jessie Lamb,Jane Rogers,3.1,1804,2011,dystopia
+The Handmaid's Tale,Margaret Atwood,4.12,1521719,1985,apocalyptic
+The Book of the Unnamed Midwife,Meg Elison,4.14,14057,2014,apocalyptic
+The Power,Naomi Alderman,3.8,167611,2016,apocalyptic
+Future Home of the Living God,Louise Erdrich,3.55,19429,2017,apocalyptic
+The Testaments,Margaret Atwood,4.2,231722,2019,apocalyptic
+Lilith's Brood,Octavia E. Butler,4.35,15107,1987,apocalyptic
+The Book of Etta,Meg Elison,3.9,5310,2017,apocalyptic
+The Gate to Women's Country,Sheri S. Tepper,4.06,12391,1987,apocalyptic
+Afterland,Lauren Beukes,3.31,2281,2020,apocalyptic
+The Book of Joan,Lidia Yuknavitch,3.04,5085,2017,apocalyptic
+Gather the Daughters,Jennie Melamed,3.62,7736,2017,apocalyptic
+Tea from an Empty Cup,Pat Cadigan,3.37,811,1998,cyberpunk
+He She and It,Marge Piercy,3.98,5225,1991,cyberpunk
+The Girl Who Was Plugged In/Screwtop,James Tiptree Jr.,3.94,301,1989,cyberpunk
+Manifesto Cyborg,Donna J. Haraway,3.92,1238,1985,cyberpunk
+The Ballad of Halo Jones,Alan Moore,4.07,1862,1991,cyberpunk
+Brain Plague,Joan Slonczewski,4.15,436,2000,cyberpunk
+Cyberpunk Women Feminism and Science Fiction : A Critical Study,Carlen Lavigne,3.62,21,2012,cyberpunk
+Maul,Tricia Sullivan,3.2,251,2003,cyberpunk
+Her Smoke Rose Up Forever,James Tiptree Jr.,4.21,3699,1990,cyberpunk
+The Left Hand of Darkness,Ursula K. Le Guin,4.08,125385,1969,hard
+A Door Into Ocean,Joan Slonczewski,3.97,2117,1986,hard
+Remnant Population,Elizabeth Moon,4.06,4137,1996,hard
+The Handmaid's Tale,Margaret Atwood,4.12,1521872,1985,hard
+Lilith's Brood,Octavia E. Butler,4.35,15107,1987,hard
+Bloodchild and Other Stories,Octavia E. Butler,4.34,14005,1995,hard
+Octavia's Brood: Science Fiction Stories from Social Justice Movements,Adrienne Maree Brown,3.96,2667,2015,hard
+The Stepford Wives,Ira Levin,3.78,29853,1972,robots
+Interstellar Cinderella,Deborah Underwood,4.19,3006,2015,robots
+The Hierarchies,Ros Anderson,3.57,281,2020,robots
+Girls with Sharp Sticks,Suzanne Young,3.94,6944,2019,robots
+Turned On: Science Sex and Robots,Kate Devlin,3.65,231,2018,robots
+The Future of Another Timeline,Annalee Newitz,3.75,4569,2019,time_travel
+Woman on the Edge of Time,Marge Piercy,3.95,14210,1976,time_travel
+Beauty,Sheri S. Tepper,3.83,5456,1991,time_travel
+Dealing in Dreams,Lilliam Rivera,3.44,971,2019,dystopia
+Dealing in Dreams,Lilliam Rivera,3.44,971,2019,apocalyptic
+Binti,Nnedi Okorafor,3.87,73121,2015,hard
+Binti,Nnedi Okorafor,3.87,73121,2015,alternate_universe
+Binti,Nnedi Okorafor,3.87,73121,2015,aliens
+Kindred,Octavia Butler,4.30,218014,1979,time_travel
+Mission Child,Maureen McHugh,3.75,503,1998,alternate_universe
+Mission Child,Maureen McHugh,3.75,503,1998,aliens
+Parable of the Sower,Octavia Butler,4.21,167991,1993,dystopia 
+Parable of the Sower,Octavia Butler,4.21,167991,1993,apocalyptic
+Parable of the Talents,Octavia Butler,4.31,59326,1998,dystopia 
+Trading in Danger,Elizabeth Moon,3.99,15267,2003,alternate_universe
+To Be Taught If Fortunate,Becky Chambers,4.20,43427,2019,alternate_universe
+To Be Taught If Fortunate,Becky Chambers,4.20,43427,2019,aliens
+The Long Way to a Small Angry Planet,Becky Chambers,4.18,147767,2104,alternate_universe
+The Long Way to a Small Angry Planet,Becky Chambers,4.18,147767,2014,aliens
+Moxyland,Lauren Beukes,3.58,3689,2008,cyberpunk
+Moxyland,Lauren Beukes,3.58,3689,2008,dystopia
+The Stars Are Legion,Kameron Hurley,3.65,10048,2017,aliens
+The Stars Are Legion,Kameron Hurley,3.65,10048,2017,alternate_universe
+Double Vision,Sullivan Tricia,3.14,111,2005,cyberpunk
+Double Vision,Sullivan Tricia,3.14,111,2005,alternate_universe
+The Calculating Stars,Mary Robinette Kowal,3.96,33509,2018,alternate_history
+Cinder,Marissa Meyer,4.13,924639,2012,dystopia
+Cinder,Marissa Meyer,4.13,924639,2012,cyberpunk
+Cinder,Marissa Meyer,4.13,924639,2012,robots
+Nova,Samuel R. Delany,3.81,8324,1968,aliens
+Stars in My Pocket Like Grains of Sand,Samuel R. Delany,3.83,2928,1984,aliens
+Glasshouse,Charles Stross,3.88,11334,2006,cyberpunk
+Glasshouse,Charles Stross,3.88,11334,2006,dystopia
+Picnic on Paradise,Joanna Russ,3.41,566,alternate_universe
+Picnic on Paradise,Joanna Russ,3.41,566,aliens
+The Women Men Don't See,James Tiptree Jr,3.79,373,1963,aliens

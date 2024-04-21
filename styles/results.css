@@ -1,0 +1,64 @@
+body {
+    background-color: #0F4C75;
+    padding-top: 100px;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between; /* Add space between divs */
+    align-items: flex-start; /* Align content to the top */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%; /* Adjust width of left div */
+    box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.5);
+}
+
+.content2 {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+    width: 35%; /* Adjust width of right div */
+    box-shadow: 10px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    margin-left: 20px; /* Add margin between divs */
+}
+
+
+.custombg {
+    background-color: #0F4C75;
+    margin-top: 20px;
+}
+
+.list-item {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.list-item2 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+
+.header-image {
+    width: 50px; /* Adjust the width of the image */
+    margin-left: 20px; /* Adjust the spacing between text and image */
+}
+
+.pencil-image {
+    width: 50px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="imgs/loupe.png">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/form.css">
+    <title>BookFinder</title>
+</head>
+<body>
+    <!-- intro user -->
+    <div class="container">
+        <img src="imgs/ufo.png" alt="UFO" class="ufo-image">
+        <img src="imgs/robot.png" alt="Robot" class="robot-image">
+       <div class = "content">
+    <h1 id="welcome-header"></h1>
+    <h3>Here is the form for selecting your book preferences: </h3>
+    <br>
+    <form id="userForm">
+        <!-- sci-fi features checkbox section -->
+        <label>Select what you like to see in sci-fi books: </label>
+        <input type="checkbox" name="s" id="aliens">
+        <label for="alien">Aliens</label>
+        <input type="checkbox" name="s" id="robots">
+        <label for="robot">Robots</label>
+        <input type="checkbox" name="s" id="time_travel">
+        <label for="time">Time Travel</label>
+        <input type="checkbox" name="s" id="hard">
+        <label for="hard">Scientific concepts</label>
+
+        <!-- sci-fi subgenres radio button section -->
+        <br>
+        <label>Do you like dystopian sci-fi?</label>
+        <input type="radio" name="dys" id="dys-y">
+        <label for="dys-y">Yes</label>
+        <input type="radio" name="dys" id="dys-n">
+        <label for="dys-n">No</label>
+
+        <br>
+        <label>Do you like apocalyptic sci-fi?</label>
+        <input type="radio" name="apoc" id="apoc-y">
+        <label for="apoc-y">Yes</label>
+        <input type="radio" name="apoc" id="apoc-n">
+        <label for="apoc-n">No</label>
+
+        <br>
+        <label>Do you like cyberpunk sci-fi?</label>
+        <input type="radio" name="cyb" id="cyb-y">
+        <label for="cyb-y">Yes</label>
+        <input type="radio" name="cyb" id="cyb-n">
+        <label for="cyb-n">No</label>
+
+        <br>
+        <label>Do you like alternate history sci-fi?</label>
+        <input type="radio" name="alt-h" id="alt-h-y">
+        <label for="alt-h-y">Yes</label>
+        <input type="radio" name="alt-h" id="alt-h-n">
+        <label for="alt-h-n">No</label>
+
+        <br>
+        <label>Do you like alternate universe sci-fi?</label>
+        <input type="radio" name="alt-u" id="alt-u-y">
+        <label for="alt-u-y">Yes</label>
+        <input type="radio" name="alt-u" id="alt-u-n">
+        <label for="alt-u-n">No</label>
+
+        <!-- Enter known author -->
+        <!-- <br>
+        <label for="Author">Any preferred authors? (full name, correct spelling):</label>
+        <input type="text" name="Author" id=""> -->
+
+        <!-- Rating preferences section  -->
+
+        <!-- preferences for rating count, rating score, and publication recency -->
+        <br>
+        <label>Do you want books that have a lot of Goodreads rating votes or fewer rating votes?</label>
+        <input type="radio" name="ratings" id="more_ratings">
+        <label for="more_ratings">More ratings</label>
+        <input type="radio" name="ratings" id="less_ratings">
+        <label for="less_ratings">Less ratings</label>
+        <input type="radio" name="ratings" id="idc_ratings">
+        <label for="idc_ratings">I don't care</label>
+
+        <br>
+        <label>Do you want books that have higher or lower Goodreads rating?</label>
+        <input type="radio" name="score" id="higher_score">
+        <label for="higher_score">Higher</label>
+        <input type="radio" name="score" id="lower_score">
+        <label for="lower_score">Lower</label>
+        <input type="radio" name="score" id="idc_score">
+        <label for="idc_score">I don't care</label>
+
+        <br>
+        <label>Do you want more recently published books or less recent books?</label>
+        <input type="radio" name="recency" id="more_recent">
+        <label for="more_recent">More recent</label>
+        <input type="radio" name="recency" id="less_recent">
+        <label for="less_recent">Less recent</label>
+        <input type="radio" name="recency" id="idc_recent">
+        <label for="idc_recent">I don't care</label>
+
+        <!-- submit button -->
+        <br>
+        <button type="submit" class="btn btn-secondary custombg"> Get book recs!</button>
+    </form>
+   </div>
+   <img src="imgs/vaporwave.png" alt="Dystopian" class="dytopian-img">
+   <img src="imgs/sci-fi.png" alt="Sci-Fi Society" class="scifi-img">
+</div>
+   
+    <script src="js/form.js"></script>
+</body>
+</html>

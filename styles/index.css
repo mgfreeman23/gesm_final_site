@@ -1,0 +1,97 @@
+body {
+    background-color: #0F4C75
+}
+
+/* styles/index.css */
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust the margin to control spacing */
+}
+
+.text {
+    max-width: 80%;
+    padding: 15px;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+}
+
+.text h1 {
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px; 
+    font-weight: bolder;
+}
+
+.text p {
+    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 8px;
+    
+}
+
+.text h3 {
+    background-color: whitesmoke;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 3%;
+    
+}
+
+a {
+    color: #0F4C75; /* Change the color here */
+    text-decoration: none; /* Optional: Remove underline */
+}
+/* CSS style for link hover effect (optional) */
+a:hover {
+    color: gray; /* Change the color here */
+}
+
+.text h1, .text p {
+    text-align: center;
+}
+
+.nameText {
+    font-weight: bold;
+    padding-right: 5px;
+}
+.custombg {
+    background-color: #0F4C75;
+}
+.form {
+    margin-top: 10px; /* Adjust as needed */
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center; /* Center the image horizontally */
+    margin-bottom: 20px; /* Adjust the margin to control spacing */
+    margin-top: 50px;
+    
+}
+
+.image-container img {
+    max-width: 100px; /* Adjust the width of the image */
+    height: auto;
+}
+
+.img2 {
+    margin-left: 40px;
+    max-width: 120px;
+    height: auto;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-bottom: 20px; /* Optional margin */
+}
